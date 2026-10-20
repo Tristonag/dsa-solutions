@@ -14,5 +14,5 @@ One folder per topic, added as I reach it, in this order:
 | # | Problem | Difficulty | Topic | Idea |
 |---|---|---|---|---|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Arrays & Hashing |
-
+|---|---|---|---|---|
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Arrays & Hashing |
